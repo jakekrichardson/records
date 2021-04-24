@@ -1,4 +1,4 @@
-Inner Join with Numerical Parameters
+#Inner Join with Numerical Parameters
 
 SELECT pricing_history.album,pricing_history.purchase_price,personal_data.personal_rating
 FROM pricing_history
