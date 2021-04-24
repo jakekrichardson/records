@@ -1,3 +1,1 @@
-This is a database and code to show my SQL demonstrable skills.
-
-Created a db on an excel speadsheet from my personal record collection. I imported this data into PostgreSQL to measure quantitative data models and create relevant business analytic scenarios
+I created a database from my personal record collection and imported this data into PostgreSQL and Tableau to demonstrate my SQL knowledge and data modelling. Here are a few examples of queries I wrote to measure quantitative data and to replicate common business analytic scenarios.
