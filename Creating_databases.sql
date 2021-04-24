@@ -1,5 +1,3 @@
-# Creating database
-'''sql
 
 CREATE TABLE record_inventory(
 	unit_id SMALLSERIAL PRIMARY KEY,
